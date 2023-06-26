@@ -1,0 +1,324 @@
+@media (max-width: 1199px) {
+  .abou_pic {
+    width: 100%;
+    margin: auto;
+
+    margin-top: 100px;
+  }
+
+  .statistic_wrapper span {
+
+    width: 50%;
+
+    bottom: 175px;
+
+    left: 25%;
+
+  }
+}
+
+@media (max-width: 1024px) {
+  .abou_pic {
+    width: 100%;
+    margin: auto;
+
+    margin-top: 100px;
+  }
+
+  .statistic_wrapper span {
+
+    width: 60%;
+
+    bottom: 175px;
+
+    left: 20%;
+
+  }
+}
+
+/* ===================END=============== */
+
+/* ======================= 991 START ======================== */
+
+@media (max-width: 991px) {
+  .col-md-4.col-sm-4.col-6.m-auto.mb-2.statistic_wrapper {
+    margin-top: 0 !important;
+  }
+
+  .col-md-6.about_content.changing_wrapper {
+    width: 100%;
+  }
+
+  .changing_pic {
+    width: 98%;
+    margin: auto;
+  }
+
+  .about_content p {
+
+    padding: 10px 0;
+
+  }
+
+  .statistic_wrapper span {
+    width: 50%;
+    bottom: 175px;
+    left: 25%;
+  }
+
+  .header_content h2 {
+    font-size: 40px;
+    margin-left: 0;
+  }
+
+  .header_content h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+
+
+
+}
+
+/* ======================= 991 END ======================== */
+
+/* =======================767 START ======================== */
+
+@media (max-width: 767px) {
+  .header_content h2 {
+    font-size: 50px;
+    margin-left: 0;
+  }
+
+  .header_content h1 {
+    text-align: center;
+    font-size: 24px;
+  }
+
+  .about_content h1 {
+    margin: 9px 0;
+  }
+
+  .my_work ul li a {
+    font-size: 15px;
+  }
+
+  .changing_wrapper::before {
+    top: 66px;
+  }
+
+  .recent_content {
+    width: 95%;
+    border: 1px solid #ddd;
+    padding: 40px 20px !important;
+    margin-bottom: 20px;
+  }
+
+  .owl-carousel .owl-item img {
+    display: block;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 20px;
+  }
+
+  .statistic_wrapper span {
+    width: 50%;
+    bottom: 179px;
+    left: 25%;
+    overflow: hidden;
+  }
+
+
+
+
+}
+
+/* ============================END 767 =============== */
+
+
+/* ============================START 575 =============== */
+@media (max-width: 575px) {
+  .nav-link {
+    text-align: center;
+    line-height: 18px;
+
+  }
+
+  .nav-link::before {
+    display: none;
+  }
+
+  .statistic_wrapper span {
+    display: none;
+  }
+
+  .about_content::before {
+    top: 69px;
+  }
+
+  .header_content h2 {
+    margin-left: 0px;
+    text-align: center;
+    font-size: 44px;
+  }
+
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    text-align: center;
+  }
+
+  .statistic_wrapper {
+
+    width: 100%;
+    padding: 30px 0;
+    border-bottom: 2px solid #fff;
+  }
+
+  .card {
+
+    width: 90%;
+    margin: auto;
+  }
+
+  .my_work ul li a {
+    font-size: 13px;
+
+  }
+
+  .work_gellary {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+
+  }
+
+  .work_icon {
+    right: 30px;
+    top: 5px;
+
+  }
+
+  .col-md-3.mt-3.col-sm-6.text-center {
+    width: 95%;
+    margin: auto;
+  }
+
+  .changing_wrapper p {
+    margin-left: 0px;
+
+  }
+
+  .btn_make_request {
+    margin: auto;
+  }
+
+  .changing_wrapper p {
+    text-align: center;
+    font-size: 16px;
+
+  }
+
+  .header_content h1 {
+    font-size: 26px;
+    line-height: 36px;
+
+  }
+
+  .owl-nav button.owl-prev {
+    display: none;
+  }
+
+  .owl-nav button.owl-next {
+    display: none;
+  }
+
+  .header_botton {
+    margin-top: 120px;
+  }
+
+  .btn_get_start {
+    padding: 12px 19px;
+    font-size: 12px;
+
+  }
+
+  .btn_my_potfolio {
+    padding: 12px 19px;
+    font-size: 12px;
+
+  }
+
+  .abou_pic {
+    width: 90%;
+    margin: auto;
+    margin-bottom: 25px;
+    text-align: center;
+  }
+
+  .about_content p {
+    text-align: center;
+    font-size: 16px;
+
+  }
+
+  .about_content h1 {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .work_content {
+    left: 80px;
+    text-align: center;
+  }
+
+  .work_gellary::before {
+    width: 100%;
+    text-align: center;
+  }
+
+  .clint_content p {
+    font-size: 17px;
+    text-align: center;
+  }
+
+  .clint_content h2 {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .owl-dots {
+    left: 30%;
+  }
+
+  .letest_height p {
+    color: #f6f6f6;
+    text-align: center;
+    margin: auto;
+    font-size: 18px;
+  }
+
+  address {
+    right: 37px;
+    top: 144px;
+    margin: auto;
+    text-align: center;
+  }
+
+  footer p {
+    font-size: 12px;
+    text-align: center;
+  }
+
+  .recent_content {
+    width: 90%;
+    padding: 24px 15px !important;
+    text-align: center;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+
+  }
+
+
+}
