@@ -563,15 +563,25 @@ section.work_section {
   font-size: 20px;
   color: #000;
   line-height: -63px;
-  transition: 0.4s all ease-in-out;
+  transition: 0.3s all ease-in-out;
+  padding: 10px 13px;
+
+}
+
+.my_work ul li:first-child a {
+  background-color: #f39c12;
+  padding: 10px 13px;
+  color: #fff;
 
 }
 
 .my_work ul li a:hover {
   background-color: #f39c12;
-  padding: 10px 13px;
+
   color: #fff;
 }
+
+.progress_content h1 {}
 
 .work_section:hover .about_content.my_work::before {
   width: 50px;
