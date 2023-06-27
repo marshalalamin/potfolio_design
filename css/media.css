@@ -107,6 +107,12 @@
     top: 66px;
   }
 
+  .about_content h1 {
+    font-size: 18px;
+    text-align: start;
+    text-align: center;
+  }
+
   .recent_content {
     width: 95%;
     border: 1px solid #ddd;
@@ -128,6 +134,30 @@
     overflow: hidden;
   }
 
+  .progress_content h1 {
+    text-align: start;
+  }
+
+  .about_content::before {
+
+    top: 52px;
+
+  }
+
+  .statistic_wrapper h2 {
+    font-size: 15px;
+
+  }
+
+  .my_work ul li a {
+    font-size: 15px;
+    text-align: center;
+  }
+
+  .my_work ul li {
+    text-align: center;
+    margin-left: 0;
+  }
 
 
 
@@ -144,6 +174,12 @@
 
   }
 
+  .progress_content h1 {
+    text-align: start;
+    text-align: left;
+    display: flex;
+  }
+
   .nav-link::before {
     display: none;
   }
@@ -153,7 +189,7 @@
   }
 
   .about_content::before {
-    top: 69px;
+    top: 53px;
   }
 
   .header_content h2 {
@@ -183,7 +219,9 @@
   }
 
   .my_work ul li a {
-    font-size: 13px;
+    font-size: 10px;
+
+    text-align: center;
 
   }
 
@@ -264,7 +302,7 @@
   }
 
   .about_content h1 {
-    font-size: 30px;
+    font-size: 18px;
     text-align: center;
   }
 
